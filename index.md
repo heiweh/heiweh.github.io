@@ -1,1 +1,4 @@
-A website for my favourite character is currently being built here!
+# Website for my favourite character
+
+This is the description of the character.
+
