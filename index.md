@@ -1,2 +1,4 @@
-# This is the title of the website for my favourite character
+# Website for my favourite character
+
+This is the description of the character.
 
